@@ -1,0 +1,16 @@
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\bin\Debug\App2.dll
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\bin\Debug\App2.pdb
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\bin\Debug\App2.App2.apk
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\bin\Debug\App2.App2-Signed.apk
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\App2.dll
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\App2.pdb
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\android\bin\App2.App2.apk
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\res\layout\contactlist.xml
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\res\layout\main.xml
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\res\values\strings.xml
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\res\drawable\icon.png
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\R.cs.flag
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\uploadflags.txt
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\obj\Debug\App2.dll.mdb
+C:\Users\Sean's PC\Desktop\Business App\App2\App2\bin\Debug\App2.dll.mdb
